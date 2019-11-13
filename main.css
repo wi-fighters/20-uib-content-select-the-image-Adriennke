@@ -1,18 +1,37 @@
   main {
     margin: 30px;
   }
-  
+
   img {
     height: 100px;
   }
-  
+
+  h3 {
+    color: blue;
+  }
+
+  .selected-items {
+    color: red;
+  }
+
+  img+img {
+    border: 3px solid blue;
+  }
+
+  a[href$=".com"] {
+    background-color: yellow;
+  }
+
+  #other-one {
+    color: silver;
+  }
+
   /* Task 1 */
-  
+
   /* Task 2 */
-  
+
   /* Task 3 */
-  
+
   /* Task 4 */
-  
+
   /* Task 5 */
-  

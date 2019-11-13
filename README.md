@@ -3,6 +3,7 @@
 ## Exercise: CSS Selectors 1
 
 **Instructions**:
+
 1. Select all h3 elements and change the elements' color to blue.
 2. Select list items 3-5 in task 2 using classes. Change the elements' color to red.
 3. Select the sibling of the first image using a combinator. Give the image a border.
